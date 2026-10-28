@@ -1,0 +1,16 @@
+[
+  {
+    "title": "My authorized YouTube lesson",
+    "mediaUrl": "https://www.youtube.com/watch?v=REPLACE_VIDEO_ID",
+    "mediaType": "VIDEO",
+    "level": "BEGINNER",
+    "useYouTubeCaptions": true
+  },
+  {
+    "title": "My licensed podcast recording",
+    "mediaUrl": "https://media.example.com/replace-with-audio.mp3",
+    "mediaType": "PODCAST",
+    "level": "INTERMEDIATE",
+    "captionsFile": "captions/example.vtt"
+  }
+]

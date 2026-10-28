@@ -1,0 +1,45 @@
+# ===== Bí mật - TUYỆT ĐỐI không đưa lên Git =====
+.env
+.env.*
+.env.local
+*.local
+!.env.example
+!frontend/.env.example
+
+# ===== Node / Next.js / NestJS =====
+node_modules/
+**/node_modules/
+.next/
+**/dist/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+
+# ===== Dữ liệu, media, upload =====
+uploads/
+tmp/
+*.wav
+*.webm
+*.mp3
+!frontend/public/audio/*.mp3
+*.mp4
+*.m4a
+backend-api/src/database/seed_lessons.json
+
+# ===== Docker volumes cục bộ =====
+pgdata/
+redisdata/
+miniodata/
+
+# ===== IDE / hệ điều hành =====
+.vscode/
+.idea/
+.kiro/settings/
+.DS_Store
+Thumbs.db
+*.log
