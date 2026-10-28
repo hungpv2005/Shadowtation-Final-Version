@@ -4,8 +4,8 @@
 > **Học phần:** Đồ án chuyên ngành-1-1-26 (N03).  
 > **Giảng viên hướng dẫn:** ThS. Nguyễn Thị Dinh.  
 > **Nhóm sinh viên thực hiện:**  
-> - Phạm Văn Hùng
-> - Nguyễn Mạnh Cường
+> - Phạm Văn Hùng (MSV : 23011943)
+> - Nguyễn Mạnh Cường (MSV : 23010064)
 
 ---
 
